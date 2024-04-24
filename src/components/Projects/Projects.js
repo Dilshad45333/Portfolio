@@ -36,7 +36,7 @@ function Projects() {
               title="Portfolio"
               description="Developed a responsive and interactive portfolio using React.js to showcase my web development projects and technical skills. The site is designed to display my professional work and experiences, highlighting my proficiency in modern web technologies."
               ghLink="https://github.com/Dilshad45333/Portfolio"
-              demoLink="https://dk-portfolio.netlify.app/"
+              demoLink="https://dilshad45333-my-portfolio.netlify.app/"
             />
           </Col>
 
